@@ -1,11 +1,11 @@
-## Birinder Singh
+# Birinder Singh
 
 Ph : +1-778-636-0380
 Email : birinder1469@gmail.com
 Blog: [TechnicalBlog](https://birinder1469.github.io/BirinderSingh_Blog/)
 Linked In Profile : [Linked In](https://www.linkedin.com/in/birinder-singh/)
 
-### Summary of Qualifications
+## Summary of Qualifications
 •	Insightful technical and operational experience in the Upstream Oil and Gas industry
 
 •	Strong commercial acumen and numeracy and strong analytical ability
@@ -16,8 +16,8 @@ Linked In Profile : [Linked In](https://www.linkedin.com/in/birinder-singh/)
 
 • Among top 5 in the batch of 45 students during the Graduation and Post-Graduation in Geophysical Technology from Indian Institute of Technology (IIT), Roorkee (2008-2013)
 
-### Experience
-#### Data Scientist in Training
+## Experience
+### Data Scientist in Training
 Master of Data Science, The University of British Columbia, Vancouver 				2018-2019
 
 •	Predicted two strongest factors in the survival of Titanic Passengers and Constructed a reproducible data analysis pipeline [GitHub_Repository_url](https://github.com/Birinder1469)
@@ -34,8 +34,8 @@ Forest, SVMs, Naïve Bayes using the machine learning python libraries Scikit-Le
 
 •	Developed a Shiny app compiling the incidents of crime in major cities of USA.  [ShinyApp_url](https://birinder1469.shinyapps.io/Crime_Fighters/)
 
-### PetroTechnical Engineer
-#### Schlumberger Solutions Ltd. (Global Data Services HUB)                                             Feb 2016 – Jan 2018
+## PetroTechnical Engineer
+### Schlumberger Solutions Ltd. (Global Data Services HUB)                                             Feb 2016 – Jan 2018
 •	Technical backbone of a 5 member Data Consulting team involved in processing and interpretation of 100+ wells per year generating over $2M revenue for Schlumberger
 
 •	Streamlined the service delivery for major E&P clients by devising Standard Operating Procedures leading to reduction in the Turnaround Time by up to 20% with significant improvement in Service Quality
@@ -46,8 +46,8 @@ Forest, SVMs, Naïve Bayes using the machine learning python libraries Scikit-Le
 
 •	Mentored 3 employees and 2 Interns, conducted On-Job trainings, evaluated their progress.
 
-### PetroTechnical Engineer and Technical Sales Engineer
-#### Schlumberger Asia Services    Ltd.                                                                                       ( July 2013–Jan 2016 )
+## PetroTechnical Engineer and Technical Sales Engineer
+### Schlumberger Asia Services    Ltd.                                                                                       ( July 2013–Jan 2016 )
 •	Monitored real time drilling operations and implemented accurate, time critical decisions to avoid potential hazards and manage costs effectively while optimizing well performance for the clients
 
 •	Led a team of 4 PTEs involved in advanced interpretations during second leg of Gas Hydrate Expedition in India successfully exploring 134tcf Methane Hydrates worth ~$400B earning $3.5M revenue for Schlumberger
@@ -71,21 +71,21 @@ Awards and Achievements
 
 •	Appreciation letter from OILMAX for identifying hydrocarbon zones in their first exploratory well in Cambay basin
 
-### Education
+## Education
 Education Qualification	Year	Institution	Grade/CGPA
 Master of Data Science 	2018-Ongoing	University of British Columbia,
 Vancouver	A+
 Integrated M. Tech (Geophysical technology)
 Canadian equivalency: Masters (WES) 	2008-2013	IIT Roorkee	8.33/10
 
-### Publications
+## Publications
 1.	Vikas Jain et.all., 2018, New technique for accurate porosity estimation from logging-while-drilling nuclear magnetic resonance data, NGHP-02 expedition, offshore, India, doi.org/10.1016/j.marpetgeo.2018.11.001
 [Publication_url](https://www.sciencedirect.com/science/article/abs/pii/S0264817218304719?via%3Dihub)
 
 2. Mukhopadhyay, S., Singh, B. and Mohamed, H., 2015. Estimation of attenuation characteristics of Aswan reservoir region, Egypt. J. Seismol, DOI 10.1007/s10950-015-9511-2  [Publication_url](https://link.springer.com/article/10.1007%2Fs10950-015-9511-2)
 Estimated frequency dependent attenuation characteristics using Linear regression on the data of local earthquakes encountered during 2007-2009 in the Aswan Reservoir region, Egypt. Software used: MATLAB and SEISAN(Seismic Analysis Software)
 
-### Extra-Curricular Activities
+## Extra-Curricular Activities
 •	Delegate at a Policy Bootcamp organized by Vision India foundation for 150 delegates with diverse backgrounds to discuss public policy issues and to learn from experienced Bureaucrats, Members of Parliament and other change agents.
 
 •	Organizing Secretary of the biggest technical festival of India organized by IIT Roorkee and attended by over 3000 participants.
