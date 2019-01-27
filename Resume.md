@@ -88,7 +88,7 @@ Grade Point : 8.33/10<br>
 1.	Vikas Jain et.all., 2018, New technique for accurate porosity estimation from logging-while-drilling nuclear magnetic resonance data, NGHP-02 expedition, offshore, India, doi.org/10.1016/j.marpetgeo.2018.11.001
 [Publication_url](https://www.sciencedirect.com/science/article/abs/pii/S0264817218304719?via%3Dihub)
 
-2. Mukhopadhyay, S., Singh, B. and Mohamed, H., 2015. Estimation of attenuation characteristics of Aswan reservoir region, Egypt. J. Seismol, DOI 10.1007/s10950-015-9511-2  [Publication_url](https://link.springer.com/article/10.1007%2Fs10950-015-9511-2)
+2. Mukhopadhyay, S., Singh, B. and Mohamed, H., 2015. Estimation of attenuation characteristics of Aswan reservoir region, Egypt. J. Seismol, DOI 10.1007/s10950-015-9511-2  [Publication_url](https://link.springer.com/article/10.1007%2Fs10950-015-9511-2) <br>
 Estimated frequency dependent attenuation characteristics using Linear regression on the data of local earthquakes encountered during 2007-2009 in the Aswan Reservoir region, Egypt. Software used: MATLAB and SEISAN(Seismic Analysis Software)
 
 ## Extra-Curricular Activities
