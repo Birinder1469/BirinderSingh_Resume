@@ -76,7 +76,7 @@ Forest, SVMs, Naïve Bayes using the machine learning python libraries Scikit-Le
 
 ## Education
 
-* **Master of Data Science** (2018-Ongoing) <br>	The University of British Columbia, Vancouver <br>
+* **Master of Data Science** (2018-Ongoing) <br>	The University of British Columbia, Vancouver, BC <br>
 Grade Point : A+
 
 * **Integrated M. Tech (Geophysical Technology)** ( 2008-2013 ) <br>
