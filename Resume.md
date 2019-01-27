@@ -75,11 +75,14 @@ Forest, SVMs, Naïve Bayes using the machine learning python libraries Scikit-Le
 *	Appreciation letter from OILMAX for identifying hydrocarbon zones in their first exploratory well in Cambay basin
 
 ## Education
-Education Qualification	Year	Institution	Grade/CGPA
-Master of Data Science 	2018-Ongoing	University of British Columbia,
-Vancouver	A+
-Integrated M. Tech (Geophysical technology)
-Canadian equivalency: Masters (WES) 	2008-2013	IIT Roorkee	8.33/10
+
+* **Master of Data Science** (2018-Ongoing) <br>	The University of British Columbia, Vancouver <br>
+Grade Point : A+
+
+* **Integrated M. Tech (Geophysical Technology)** ( 2008-2013 ) <br>
+Indian Institute of Technology, Roorkee, India <br>
+Canadian equivalency: Masters (WES) 	<br>
+Grade Point : 8.33/10<br>
 
 ## Publications
 1.	Vikas Jain et.all., 2018, New technique for accurate porosity estimation from logging-while-drilling nuclear magnetic resonance data, NGHP-02 expedition, offshore, India, doi.org/10.1016/j.marpetgeo.2018.11.001
