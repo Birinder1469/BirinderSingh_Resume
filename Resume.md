@@ -1,9 +1,9 @@
 # Birinder Singh
 
-Ph : +1-778-636-0380
-Email : birinder1469@gmail.com
-Blog: [TechnicalBlog](https://birinder1469.github.io/BirinderSingh_Blog/)
-Linked In Profile : [Linked In](https://www.linkedin.com/in/birinder-singh/)
+Ph : +1-778-636-0380 <br>
+Email : birinder1469@gmail.com <br>
+Blog: [TechnicalBlog](https://birinder1469.github.io/BirinderSingh_Blog/)<br>
+Linked In Profile : [Linked In](https://www.linkedin.com/in/birinder-singh/)<br>
 
 ## Summary of Qualifications
 *	Insightful technical and operational experience in the Upstream Oil and Gas industry
