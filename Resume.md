@@ -20,7 +20,7 @@ Linked In Profile : [Linked In](https://www.linkedin.com/in/birinder-singh/)<br>
 ### Data Scientist in Training
 Master of Data Science, The University of British Columbia, Vancouver 				2018-2019
 
-*	Predicted two strongest factors in the survival of Titanic Passengers and Constructed a reproducible data analysis pipeline [GitHub_Repository_url](https://github.com/Birinder1469)
+*	Predicted two strongest factors in the survival of Titanic Passengers and Constructed a reproducible data analysis pipeline [GitHub_Repository_url](https://github.com/Birinder1469/DSCI-522_Titanic-Survival-Prediction)
   * -	Software/Languages used: Python, R, Docker, Draw.io, GitHub
 
 *	Working on plug-in for automating formation detection in real time drilling using machine learning models trained on the offset well data.
